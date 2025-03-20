@@ -1,0 +1,19 @@
+.full-height {
+    height: 100%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+  
+#profile-photo {
+    clip-path: circle(50%);
+    object-fit: contain;
+    height: 200px;
+}  
+
+.logo {
+    object-fit: contain;
+    height: 30px;
+}
